@@ -16,6 +16,10 @@
 
 </div>
 
+## 🌐 Live Dashboard
+
+**Dashboard:** [Open Interactive Dashboard](https://ria-chadha-05.github.io/Healthcare-Data-Analysis/healthcare_insights_dashboard.html)
+
 ---
 
 ## 📌 Overview
