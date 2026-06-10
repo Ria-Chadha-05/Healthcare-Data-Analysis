@@ -1,0 +1,46 @@
+# ── Node / Next.js ───────────────────────────────────────────────────────────
+node_modules/
+.next/
+out/
+.vercel/
+*.local
+.env.local
+.env.development.local
+.env.production.local
+
+# ── Python / FastAPI ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.DS_Store
+
+# ── Backend secrets ───────────────────────────────────────────────────────────
+backend/.env
+backend/*.db
+backend/*.sqlite
+
+# ── ML model cache ────────────────────────────────────────────────────────────
+.cache/
+sentence_transformers/
+transformers_cache/
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+.idea/
+.vscode/
+*.pem
+health_postgres_data
