@@ -12,7 +12,7 @@
 
 [Overview](#-overview) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Workflow](#-workflow) · [Getting Started](#-getting-started) · [Data Sources](#-data-sources) · [Files Included](#-files-included) · [Results](#-results) · [Author](#-author)
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](assets/dashboard.jpg)
 
 </div>
 
